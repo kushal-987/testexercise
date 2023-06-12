@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Dal Rice
 Chicken Tikka
 Vada Pav
+=======
+The Tashkent Files
+The Kerala story
+The Kashmir files
+>>>>>>> movies
